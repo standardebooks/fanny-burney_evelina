@@ -14,11 +14,16 @@ blockquote p[epub|type~="title"]{
 
 [epub|type~="z3998:letter"] header + p{
 	margin-top: 0;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:poem"] p{
 	text-align: initial;
 	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
 }
 
 [epub|type~="z3998:poem"] p > span{
@@ -31,10 +36,6 @@ blockquote p[epub|type~="title"]{
 	display: none;
 }
 
-[epub|type~="z3998:poem"] p + p{
-	margin-top: 1em;
-}
-
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
 	text-align: initial;
@@ -45,13 +46,7 @@ p[epub|type~="z3998:salutation"]{
 	text-align: initial;
 }
 
-[epub|type~="z3998:salutation"] + p,
-[epub|type~="z3998:letter"] header + p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:sender"],
-[epub|type~="z3998:recipient"],
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
