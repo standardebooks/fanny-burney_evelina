@@ -29,70 +29,65 @@
 		<dc:title id="title">Evelina</dc:title>
 		<meta property="file-as" refines="#title">Evelina</meta>
 		<meta property="title-type" refines="#title">main</meta>
-		<dc:title id="subtitle">Or, The History of a Young Lady's Entrance Into the World</dc:title>
-		<meta property="file-as" refines="#subtitle">History of a Young Lady's Entrance Into the World, Or, The</meta>
+		<dc:title id="subtitle">Or, The History of a Young Lady’s Entrance Into the World</dc:title>
+		<meta property="file-as" refines="#subtitle">History of a Young Lady’s Entrance Into the World, Or, The</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
-		<dc:title id="fulltitle">Evelina: Or, The History of a Young Lady's Entrance Into the World</dc:title>
-		<meta property="file-as" refines="#fulltitle">Evelina: Or, The History of a Young Lady's Entrance Into the World</meta>
+		<dc:title id="fulltitle">Evelina: Or, The History of a Young Lady’s Entrance Into the World</dc:title>
+		<meta property="file-as" refines="#fulltitle">Evelina: Or, The History of a Young Lady’s Entrance Into the World</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Satire</dc:subject>
-		<dc:subject id="subject-2">Humorous stories</dc:subject>
-		<dc:subject id="subject-3">London (England) -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Young women -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Love stories</dc:subject>
-		<dc:subject id="subject-6">Bildungsromans</dc:subject>
-		<dc:subject id="subject-7">Epistolary fiction</dc:subject>
-		<dc:subject id="subject-8">Socialites -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Debutantes -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Young women--Fiction</dc:subject>
+		<dc:subject id="subject-3">Love stories</dc:subject>
+		<dc:subject id="subject-4">Bildungsromans</dc:subject>
+		<dc:subject id="subject-5">Epistolary fiction</dc:subject>
+		<dc:subject id="subject-6">Socialites--Fiction</dc:subject>
+		<dc:subject id="subject-7">Debutantes--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85117645</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">sh85062975</meta>
+		<meta property="term" refines="#subject-2">sh2008114026</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
-		<meta property="term" refines="#subject-3">sh2008106611</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
-		<meta property="term" refines="#subject-4">sh2008114026</meta>
+		<meta property="term" refines="#subject-4">sh2003003087</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
-		<meta property="term" refines="#subject-5">Unknown</meta>
+		<meta property="term" refines="#subject-5">sh85044453</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
-		<meta property="term" refines="#subject-6">sh2003003087</meta>
+		<meta property="term" refines="#subject-6">sh2008111214</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
-		<meta property="term" refines="#subject-7">sh85044453</meta>
-		<meta property="authority" refines="#subject-8">LCSH</meta>
-		<meta property="term" refines="#subject-8">sh2008111214</meta>
-		<meta property="authority" refines="#subject-9">LCSH</meta>
-		<meta property="term" refines="#subject-9">sh2008117504</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-7">sh2008117504</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Satire</meta>
+		<dc:description id="description">A young woman navigates the absurdities of 18th-century English society, fends off various suitors, and attempts to establish her true parentage.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Evelina&lt;/i&gt;, written by &lt;a href="https://standardebooks.org/ebooks/fanny-burney"&gt;Fanny Burney&lt;/a&gt; and published in 1778, is an epistolary novel that follows Evelina Anville as she navigates the challenging (and sometimes absurd) nuances of 18th-century English society. The novel begins when Evelina is invited to London by the Mirvan family, marking her first true exposure to English high society. She encounters a series of misunderstandings, social embarrassments, and would-be suitors. Evelina, naive but kind-hearted, finds that goodness and meanness can be found in all stations of society, in equal measure.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Evelina&lt;/i&gt; captures the manners and customs of Georgian England, especially in regard to class distinctions and gender roles. Evelina’s stituation, as a young woman born into nobility, but not ackonowledged by her father, finds herself navigating challenging social dynamics throughout the novel, and meets with those who judge a person’s worth based on their birth. Further, Evelina faces the challenges inherent to a young unattached woman, attempting to assert her agency and also maintain her public and personal dignity.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Evelina&lt;/i&gt; is an early example of the English romantic novel, and a fine example of social satire. The novel was written at a time when female authorship was not always encouraged, and Burney initally published the novel anonymously. Nevertheless, her work influenced writers such as Jane Austen-who referred to Burney’s works in her novels and private letters-and continues to provide an insightful and often humorous lens through which to view the late 18th-century English aristocracy.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6053</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://catalog.hathitrust.org/Record/100108904</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Evelina</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fanny-burney_evelina</meta>
 		<dc:creator id="author">Fanny Burney</dc:creator>
 		<meta property="file-as" refines="#author">Burney, Fanny</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Frances Burney</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Fanny_Burney</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">n80075853</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">Henry Robert Morland</dc:contributor>
+		<meta property="file-as" refines="#artist">Morland, Henry Robert</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Henry_Robert_Morland</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Harry Lund</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Lund, Harry</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
