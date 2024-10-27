@@ -42,6 +42,10 @@ blockquote p[epub|type~="title"]{
 	text-indent: 0;
 }
 
+[epub|type~="z3998:recipient"]{
+	text-align: center;
+}
+
 p[epub|type~="z3998:salutation"]{
 	text-align: initial;
 }
