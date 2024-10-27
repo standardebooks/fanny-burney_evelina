@@ -77,7 +77,7 @@ footer p[epub|type~="z3998:valediction"]{
 	margin-right: 2em;
 }
 
-h3 i{
+p[epub|type~="subtitle"] i{
 	font-style: normal;
 }
 
