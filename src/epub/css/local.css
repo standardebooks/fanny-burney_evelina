@@ -108,3 +108,8 @@ p span.i3{
 	padding-left: 4em;
 	text-indent: -1em;
 }
+
+[epub|type~="epigraph"] header p{
+	font-style: italic;
+	text-align: center;
+}
