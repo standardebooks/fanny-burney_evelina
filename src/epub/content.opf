@@ -67,7 +67,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6053</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100108904</dc:source>
-		<meta property="se:word-count">157294</meta>
+		<meta property="se:word-count">157296</meta>
 		<meta property="se:reading-ease.flesch">67.08</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Evelina</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fanny-burney_evelina</meta>
