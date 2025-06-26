@@ -32,10 +32,15 @@ p[epub|type~="z3998:salutation"]{
 	text-align: initial;
 }
 
+#dedication > p:first-of-type,
 [epub|type~="z3998:sender"],
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
+}
+
+#dedication > p:first-of-type + p{
+	text-indent: 0;
 }
 
 footer{
@@ -108,8 +113,4 @@ p span.i3{
 [epub|type~="epigraph"] header p{
 	font-style: italic;
 	text-align: center;
-}
-
-[epub|type~="z3998:salutation"] + p{
-	text-indent: 0;
 }
