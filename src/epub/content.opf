@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/fanny-burney/evelina</dc:identifier>
 		<dc:date>2024-10-29T20:11:21Z</dc:date>
@@ -60,12 +60,12 @@
 		<meta property="term" refines="#subject-7">sh2008117504</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Satire</meta>
-		<dc:description id="description">A young woman navigates the absurdities of 18th-century English society, fends off various suitors, and attempts to establish her true parentage.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young woman navigates the absurdities of 18th-century English society, fends off various suitors, and attempts to establish her true parentage.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Evelina&lt;/i&gt; is an epistolary novel that follows the titular Evelina Anville as she navigates the challenging (and sometimes absurd) nuances of 18th-century English society. The novel begins as Evelina is invited to London by the Mirvan family, marking her first true exposure to English high society. She soon encounters a series of misunderstandings, social embarrassments, and would-be suitors. Evelina is naive but kind-hearted, and she finds that both goodness and meanness can be found in all stations of society in equal measure.&lt;/p&gt;
 			&lt;p&gt;The novel captures the manners and customs of Georgian England, especially in regard to class distinctions and gender roles. Evelina’s position as a young woman born into nobility, but not acknowledged by her father, finds herself navigating challenging social dynamics throughout the novel, and meets with those who judge a person’s worth based on their birth. Further, Evelina faces the challenges inherent to a young unattached woman as she attempts to assert her agency while maintaining her dignity.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Evelina&lt;/i&gt; is an early example of the English romantic novel, and a fine example of social satire. When it was published in 1778, females were not encouraged to be writers, and &lt;a href="https://standardebooks.org/ebooks/fanny-burney"&gt;Burney&lt;/a&gt; was forced to publish anonymously. Nevertheless, her work influenced writers like &lt;a href="https://standardebooks.org/ebooks/jane-austen"&gt;Jane Austen&lt;/a&gt;, who referred to Burney’s works in her novels and private letters, and continues to provide an insightful and often humorous lens through which to view the late 18th-century English aristocracy.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6053</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100108904</dc:source>
